@@ -29,12 +29,19 @@ following diagram can help making a decision:
 ![Alt text](./QQ图片20160901163100.png)
 ###Convex Primitives
 Most primitive shapes are centered around the origin of their local coordinate frame:
+
 btBoxShape : Box defined by the half extents (half length) of its sides
+
 btSphereShape : Sphere defined by its radius
+
 btCapsuleShape: Capsule around the Y axis. Also btCapsuleShapeX/Z
+
 btCylinderShape : Cylinder around the Y axis. Also btCylinderShapeX/Z.
+
 btConeShape : Cone around the Y axis. Also btConeShapeX/Z.
+
 btMultiSphereShape : Convex hull of multiple spheres, that can be used to create a Capsule (by
+
 passing 2 spheres) or other convex shapes.
 ###Compound Shapes
 Multiple convex shapes can be combined into a composite or compound shape, using the
