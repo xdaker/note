@@ -1,4 +1,4 @@
-
+﻿
 #Bullet 2.83 Physics SDK Manual
 ##4 Bullet Collision Detection
 ###Collision Detection
@@ -6,8 +6,11 @@ The collision detection provides algorithms and acceleration structures for clos
 penetration) queries as well as ray and convex sweep tests. The main data structures are:
 
 • btCollisionObject is the object that has a world transform and a collision shape.
+
 • btCollisionShape describes the collision shape of a collision object, such as box, sphere, convex hull or triangle mesh. A single collision shape can be shared among multiple collision objects.
+
 • btGhostObject is a special btCollisionObject, useful for fast localized collision queries.
+
 • btCollisionWorld stores all btCollisionObjects and provides an interface to perform queries.
 
 The broadphase collision detection provides acceleration structure to quickly reject pairs of objects
@@ -15,7 +18,9 @@ based on axis aligned bounding box (AABB) overlap. Several different broadphase 
 structures are available:
 
 • btDbvtBroadphase uses a fast dynamic bounding volume hierarchy based on AABB tree
+
 • btAxisSweep3 and bt32BitAxisSweep3 implement incremental 3d sweep and prune
+
 • btSimpleBroadphase is a brute force reference implementation. It is slow but easy to understand and useful for debugging and testing a more advanced broadphase.
 
 The broadphase adds and removes overlapping pairs from a pair cache. Overlapping pairs are persistent over time and can cache information such as previous contact constraint forces that can be used for ‘warmstarting’: using the previous solution to converge faster towards constraint solving. 
