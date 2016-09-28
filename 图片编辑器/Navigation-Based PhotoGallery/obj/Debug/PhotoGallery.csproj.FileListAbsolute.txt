@@ -1,0 +1,25 @@
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\ResolveAssemblyReference.cache
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\MainPage.baml
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\NavigationWindow.baml
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\PhotoPage.baml
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\RenameDialog.baml
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\MainPage.g.cs
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\NavigationWindow.g.cs
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\PhotoPage.g.cs
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\RenameDialog.g.cs
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\App.g.cs
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\PhotoGallery_MarkupCompile.cache
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\PhotoGallery.g.resources
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\PhotoGallery.Properties.Resources.resources
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\bin\Debug\PhotoGallery.exe
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\bin\Debug\PhotoGallery.pdb
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\PhotoGallery.exe
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\PhotoGallery.pdb
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\Test\Listing 9.2 XmlDataProvider (Windowless so it runs in IE).baml
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\Test\Listing 9.2 XmlDataProvider.baml
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\Test\Listing 9.3 HierarchicalDataTemplate (Windowless so it runs in IE).baml
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\Test\Listing 9.3 HierarchicalDataTemplate with Menu.baml
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\Test\Listing 9.3 HierarchicalDataTemplate.baml
+E:\TDDOWNLOAD\项目源码\WPF\087089275code\code\07\Navigation-Based PhotoGallery\obj\Debug\Test\Listing 9.4 Pure XAML RSS Reader.baml
